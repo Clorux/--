@@ -1,0 +1,17 @@
+-- Baris ini tidak boleh diubah, sesuai aturan.
+-- Komputer membuat sebuah kotak kosong bernama 'key'.
+local key = ""
+
+-- Di baris inilah keajaibannya terjadi.
+-- Kita panggil lagi kotak 'key' dan kita ISI dengan nilai baru.
+local X = "y"
+if X == "y" then
+  local b = 777
+  else
+    local s = 9373893
+end
+
+key = "Halo!"
+
+-- Sekarang, kita tampilkan isi dari kotak 'key' yang sudah diisi tadi.
+print(key)
